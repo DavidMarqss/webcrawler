@@ -1,7 +1,6 @@
 #Bibliotecas
 import requests
 import schedule
-import time
 from datetime import datetime
 from bs4 import BeautifulSoup
 
